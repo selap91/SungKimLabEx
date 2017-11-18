@@ -1,2 +1,2 @@
-# SungKimLabEx
+# SungKimLab
 Sung Kim lecture lab examples
